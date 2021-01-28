@@ -1,5 +1,7 @@
 {
   "name": "awalanSatu",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
